@@ -1,10 +1,12 @@
 {
+  "homepage": "https://JJCayabyab.github.io/nexplay-esports",
   "name": "esports-article-website",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
