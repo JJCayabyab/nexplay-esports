@@ -150,7 +150,8 @@ export const latestStoryData = [
         gameName: 'Pokemon',
         shortDesc: 'The final event of the Pokémon esports calendar is here, with the Pokémon World Championships 2024 taking....',
         fullDesc: `Every Pokémon TCG deck has a chance at greatness, but when you enter the Pokémon World Championships, pros know the deck choice can make or break your entire season.\n
-       The 2023/2024 season has seen one of the healthiest metagames in Pokémon history, with just under a dozen decks reaching the top eight through the year. Heading into Worlds, there’s a chance for any deck to make top cut, but some are better than others. Pokémon TCG pro players have highlighted three decks they expect to do well at the World Championships in Honolulu, Hawaii, from Aug. 16 to 18—and what they plan to use.\n
+       The 2023/2024 season has seen one of the healthiest metagames in Pokémon history, with just under a dozen decks reaching the top eight through the year. Heading into Worlds, there’s a chance for any deck to make top cut, but some are better than others. Pokémon TCG pro players have highlighted three decks they expect to do well at the World Championships in Honolulu, Hawaii, from Aug. 16 to 18—and what they plan to use.
+       
        “From my NAIC experience, Gardevoir feels like the perfect deck for me to take into Worlds.” Rose Gregon, a U.K. TCG player heading to Hawaii, told Dot Esports. “With enough adaptation to the new top decks, Charizard and Regidrago, I’m confident Gardevoir can beat anything.”\n
        Gregson continued, saying they expected “Regidrago to be the most popular and dominant deck in Worlds” and that, heading into Worlds, they “expect a lot of good players to pick the deck up and have deep runs.”\n
        Adam Hawkins, another top TCG player based in the U.K., agreed with one of those three; he expects Charizard to dominate in Honolulu when crunch time rolls around.\n
